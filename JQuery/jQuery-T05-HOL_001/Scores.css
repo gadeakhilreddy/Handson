@@ -1,0 +1,36 @@
+body{
+	font-family:sans-serif;
+}
+table{
+	background-color:#E8DCFF;
+	border:2 px solid black;
+	border-collapse:collapse;
+	
+}
+table td{
+    border: 1px solid black;
+}
+input{
+	background-color:#FEFFB0;
+	font-weight:bold;
+	text-align:right;
+	
+}
+
+#sum{
+	color:#174C68;
+	font-weight:bold;
+	font-size:18px;
+	background-color:#E8DCFF;
+	width:180px;
+	text-align:center;
+}
+#sumValue{
+	color:#174C68;
+	font-weight:bold;
+	font-size:18px;
+	background-color:#E8DCFF;
+	width:180px;
+	text-align:center;
+}
+
